@@ -5,7 +5,7 @@
 </h2>
 
 <h1>
-<a href="https://moveit-n70vimau6-luisclaudiocr.vercel.app/"><img src="https://ik.imagekit.io/ka6vxnsk6aa/moveit-gif_KpMsoCKCf.gif" target="_blank"></a>
+<a href="https://moveit-n70vimau6-luisclaudiocr.vercel.app/" target="_blank"><img src="https://ik.imagekit.io/ka6vxnsk6aa/moveit-gif_KpMsoCKCf.gif"></a>
 </h1>
 
 ## Sobre
